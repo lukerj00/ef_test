@@ -1,196 +1,196 @@
-ProductDescription	TestCode	TestName	ParameterCode	ParameterName	StringValue	NumeratorUnit	DenominatorUnit	ResultSeverity	SampleSeverity	ResultSeverityColor	SampleSeverityColor	NumericValue	ReceivedDate
-R445 MALTON 4g Pork Meatballs	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-R445 MALTON 4g Pork Meatballs	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R418 BAKKAVOR 4g Pork & Fennel Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-R418 CRANSWICK 4g Pork & Fennel Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-R448 WESTLERS 28g Pork Sausage (26mm)	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-"Pork, Fennel and Chilli Ravioli"	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Korean BBQ Pork with Sticky Rice	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Korean Pulled Pork and Noodles	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Shoulder Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Shoulder Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Rejected	1	3	0	00:00.0
-R492 FORZA 4.5g Pork & Beef Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-125g Core Roast Pork	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-250g Eastmans Pork Luncheon Meat	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-TTD PORK LOIN WITH SALT & PEPPER	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Rejected	1	3	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest Leg Crackling Joint 	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK CHOPS	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Woodside Farm Pork Chops 	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Belly Slices	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Chops	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pork Loin Steaks	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Medallions 500g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest Thick Cut Chops	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Rolled Belly Joint 	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK One Stop Loin Steaks 270G	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest Leg Crackling Joint 	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK CHOPS	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Woodside Farm Pork Chops 	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Belly Slices	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Chops	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pork Loin Steaks	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Medallions 500g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest Thick Cut Chops	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Rolled Belly Joint 	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK One Stop Loin Steaks 270G	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Mediterranean Loin Steaks 600g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-RTC Injected Cajun Pork Loin Steaks With Roasted Peppers	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-RTC Pork Loin Joint with Black Pepper Sprinkle 637g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Hog Roast with Apple Sauce 900g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Maple BBQ Loin Steaks 600g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Leg Crackling Joint with SS	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest ODB Seasoned Belly Joint 700g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Rejected	1	3	0	00:00.0
-PORK Paprika Loin Steaks with Chorizo Butter 320g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Paprika Loin Steaks with Chorizo Butter 320g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Paprika Loin Steaks with Chorizo Butter 320g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Paprika Loin Steaks with Chorizo Butter 320g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Paprika Loin Steaks with Chorizo Butter 320g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-No Porkies 2pk Pulled Burger	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Fail	1	3	0	00:00.0
-PORK Finest ODB 2 Pork Cutlets 550g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Steaks	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest ODB 2 Pork Cutlets 550g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Steaks	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Shoulder Steaks	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Diced Pork	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Woodside Farm Pork Belly Slices 	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Tesco Woodside Loin Steaks	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest  ODB Thick Cut Steaks 400g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest ODB Fillet Medallions	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest Fillet 500g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Whole Fillet	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Shoulder Steaks	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Diced Pork	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Woodside Farm Pork Belly Slices 	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Tesco Woodside Loin Steaks	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest  ODB Thick Cut Steaks 400g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest ODB Fillet Medallions	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Finest Fillet 500g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Whole Fillet	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Ribs	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Ribs	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Injected Katsu Pork Loin Steaks	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Paprika Loin Steaks with Chorizo Butter 320g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Chinese Pork Stir Fry Strips 500g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R400 MORRISONS 30 Pork Cocktail Sausages	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK LUNCH TONGUE	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pork Luncheon meat 250g	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Char Siu Pork Noodles	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-JACKS Pork Belly Slices	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-JACKS Pork Belly Slices	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-JACKS Pork Loin Steaks 720g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Stir Fry Strips	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-JACKS Pork Ribs 700g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-JACKS Pork Chops 700g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-JACKS Pork Loin Steaks 720g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Stir Fry Strips	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-JACKS Pork Ribs 700g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-JACKS Pork Chops 700g	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R418 BAKKAVOR 4g Pork & Fennel Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pork Loin	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Pork Lunch Tongue	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-250g Eastmans Pork Luncheon Meat	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Char Siu Pork Noodles	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Char Siu Pork Noodles	UMW6J	Salmonella species D [UK Food]  /25 g AFNOR SOL 37	UM000096	Salmonella	To follow	No unit	25 g			0	1	NULL	00:00.0
-Char Siu Pork Noodles	UMW6J	Salmonella species D [UK Food]  /25 g AFNOR SOL 37	UM000096	Salmonella	Not Detected	No unit	25 g	None		0	1	0	00:00.0
-SAUSAGE reduced fat pork sausages	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-SAUSAGE reduced fat pork sausages	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-SAUSAGE reduced fat pork sausages	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-SAUSAGE reduced fat pork sausages	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-SAUSAGE reduced fat pork sausages	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-R398 MORRISONS 40 Pork Cocktail Sausages	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R295 PRINCES FOODS 8.2g Pork Cocktail	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pork Breakfast Sausage125g	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Pork lunch tongue 150g	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pulled Pork Bag	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	2	0	00:00.0
-Pulled Pork Bag	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Pulled Pork Bag	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	2	0	00:00.0
-125g Eastmans Pork & Egg Roll	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Char Sui Pork	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Korean BBQ Pork with Sticky Rice	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Hoisin Pork With Udon Noodles	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Korean Pulled Pork and Noodles	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	3	0	00:00.0
-PORK Shoulder Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-BACON PORK HAM (Smoky Bacon)	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-BACON PORK HAM (Smoky Bacon)	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-BACON PORK HAM (Bacon Bites)	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-R398 MORRISONS 40 Pork Cocktail Sausages	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R400 MORRISONS 30 Pork Cocktail Sausages	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-R398 MORRISONS 40 Pork Cocktail Sausages	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Roast Pork Whole	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Roast Pork Whole	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Roast Pork Whole	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pulled Pork 	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pulled Pork 	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Pulled Pork 	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-PORK Maple BBQ Loin Steaks 600g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Maple BBQ Loin Steaks 600g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Maple BBQ Loin Steaks 600g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Maple BBQ Loin Steaks 600g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Maple BBQ Loin Steaks 600g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-red eye pork ribs	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R445 WESTLERS 4g Pork Meatballs	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Korean Pulled Pork and Noodles(Retest)	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R418 BAKKAVOR 4g Pork & Fennel Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R418 CRANSWICK 4g Pork & Fennel Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Cured Pork Pie	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Shoulder Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Mediterranean Loin Steaks 600g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Mediterranean Loin Steaks 600g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Mediterranean Loin Steaks 600g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Mediterranean Loin Steaks 600g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Mediterranean Loin Steaks 600g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-R400 MORRISONS 70 Pork Cocktail Sausages	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-R398 MORRISONS 40 Pork Cocktail Sausages	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R500 FRESHPAK 4g Pork & Beef Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-PORK LUNCH TONGUE	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-R500 FRESHPAK 4g Pork & Beef Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R500 FRESHPAK 4g Pork & Beef Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Pork and Apple Sausage	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pork and Apple Sausage	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pork and Apple Sausage	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pork and Apple Sausage	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Pork and Apple Sausage	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-3829 - Pork Lunch Tongue	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Raw Pork Legs Bone In BQAP	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Raw Pork Rind	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-Raw Pork Rind	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	3	0	00:00.0
-"MORR FI Korean BBQ Pork, Rice & Pickled Slaw 400g"	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-3829 - Pork Lunch Tongue	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Shoulder Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R400 MORRISONS 20 Pork Cocktail Sausages	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-slow cooked Memphis pork ribs	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-SAUSAGES Tesco Pork & Beef Meatballs 360g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-SAUSAGES Tesco Pork & Beef Meatballs 360g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-SAUSAGES Tesco Pork & Beef Meatballs 360g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-SAUSAGES Tesco Pork & Beef Meatballs 360g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-SAUSAGES Tesco Pork & Beef Meatballs 360g	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-PORK Pepper Crusted Pork Chops with Garlic Butter	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	0	00:00.0
-R492 FORZA 4.5g Pork & Beef Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-R493 STATESIDE FOODS 3g Pork & Beef Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
-R492 FORZA 4.5g Pork & Beef Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Loin Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-PORK Shoulder Joint VP	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-Tennessee whiskey smoked pork	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	0	00:00.0
-R492 FORZA 4.5g Pork & Beef Meatball	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	0	00:00.0
+ProductDescription	ClientID	TestCode	TestName	ParameterCode	ParameterName	StringValue	NumeratorUnit	DenominatorUnit	ResultSeverity	SampleSeverity	ResultSeverityColor	SampleSeverityColor	NumericValue	ReceivedDate
+R445 MALTON 4g Pork Meatballs	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+R445 MALTON 4g Pork Meatballs	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R418 BAKKAVOR 4g Pork & Fennel Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+R418 CRANSWICK 4g Pork & Fennel Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+R448 WESTLERS 28g Pork Sausage (26mm)	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+"Pork, Fennel and Chilli Ravioli"	1	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Korean BBQ Pork with Sticky Rice	2084	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Korean Pulled Pork and Noodles	2084	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Shoulder Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Shoulder Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Rejected	1	3	00:00.0	00:00.0
+R492 FORZA 4.5g Pork & Beef Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+125g Core Roast Pork	337	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+250g Eastmans Pork Luncheon Meat	337	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+TTD PORK LOIN WITH SALT & PEPPER	42	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Rejected	1	3	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest Leg Crackling Joint 	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK CHOPS	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Woodside Farm Pork Chops 	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Belly Slices	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Chops	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pork Loin Steaks	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Medallions 500g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest Thick Cut Chops	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Rolled Belly Joint 	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK One Stop Loin Steaks 270G	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest Leg Crackling Joint 	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK CHOPS	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Woodside Farm Pork Chops 	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Belly Slices	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Chops	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pork Loin Steaks	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Medallions 500g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest Thick Cut Chops	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Rolled Belly Joint 	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK One Stop Loin Steaks 270G	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Mediterranean Loin Steaks 600g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+RTC Injected Cajun Pork Loin Steaks With Roasted Peppers	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+RTC Pork Loin Joint with Black Pepper Sprinkle 637g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Hog Roast with Apple Sauce 900g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Maple BBQ Loin Steaks 600g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Leg Crackling Joint with SS	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest ODB Seasoned Belly Joint 700g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Rejected	1	3	00:00.0	00:00.0
+PORK Paprika Loin Steaks with Chorizo Butter 320g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Paprika Loin Steaks with Chorizo Butter 320g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Paprika Loin Steaks with Chorizo Butter 320g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Paprika Loin Steaks with Chorizo Butter 320g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Paprika Loin Steaks with Chorizo Butter 320g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+No Porkies 2pk Pulled Burger	884	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Fail	1	3	00:00.0	00:00.0
+PORK Finest ODB 2 Pork Cutlets 550g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Steaks	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest ODB 2 Pork Cutlets 550g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Steaks	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Shoulder Steaks	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Diced Pork	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Woodside Farm Pork Belly Slices 	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Tesco Woodside Loin Steaks	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest  ODB Thick Cut Steaks 400g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest ODB Fillet Medallions	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest Fillet 500g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Whole Fillet	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Shoulder Steaks	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Diced Pork	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Woodside Farm Pork Belly Slices 	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Tesco Woodside Loin Steaks	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest  ODB Thick Cut Steaks 400g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest ODB Fillet Medallions	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Finest Fillet 500g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Whole Fillet	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Ribs	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Ribs	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Injected Katsu Pork Loin Steaks	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Paprika Loin Steaks with Chorizo Butter 320g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Chinese Pork Stir Fry Strips 500g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R400 MORRISONS 30 Pork Cocktail Sausages	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK LUNCH TONGUE	816	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pork Luncheon meat 250g	816	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Char Siu Pork Noodles	2487	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+JACKS Pork Belly Slices	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+JACKS Pork Belly Slices	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+JACKS Pork Loin Steaks 720g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Stir Fry Strips	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+JACKS Pork Ribs 700g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+JACKS Pork Chops 700g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+JACKS Pork Loin Steaks 720g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Stir Fry Strips	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+JACKS Pork Ribs 700g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+JACKS Pork Chops 700g	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R418 BAKKAVOR 4g Pork & Fennel Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pork Loin	2629	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Pork Lunch Tongue	816	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+250g Eastmans Pork Luncheon Meat	337	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Char Siu Pork Noodles	2487	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Char Siu Pork Noodles	2487	UMW6J	Salmonella species D [UK Food]  /25 g AFNOR SOL 37	UM000096	Salmonella	To follow	No unit	25 g			0	1	NULL	00:00.0
+Char Siu Pork Noodles	2487	UMW6J	Salmonella species D [UK Food]  /25 g AFNOR SOL 37	UM000096	Salmonella	Not Detected	No unit	25 g	None		0	1	00:00.0	00:00.0
+SAUSAGE reduced fat pork sausages	340	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+SAUSAGE reduced fat pork sausages	340	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+SAUSAGE reduced fat pork sausages	340	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+SAUSAGE reduced fat pork sausages	340	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+SAUSAGE reduced fat pork sausages	340	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+R398 MORRISONS 40 Pork Cocktail Sausages	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R295 PRINCES FOODS 8.2g Pork Cocktail	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pork Breakfast Sausage125g	816	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Pork lunch tongue 150g	816	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pulled Pork Bag	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	2	00:00.0	00:00.0
+Pulled Pork Bag	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Pulled Pork Bag	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	2	00:00.0	00:00.0
+125g Eastmans Pork & Egg Roll	337	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Char Sui Pork	2084	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Korean BBQ Pork with Sticky Rice	2084	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Hoisin Pork With Udon Noodles	2084	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Korean Pulled Pork and Noodles	2084	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	3	00:00.0	00:00.0
+PORK Shoulder Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+BACON PORK HAM (Smoky Bacon)	2478	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+BACON PORK HAM (Smoky Bacon)	2478	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+BACON PORK HAM (Bacon Bites)	2478	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+R398 MORRISONS 40 Pork Cocktail Sausages	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R400 MORRISONS 30 Pork Cocktail Sausages	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+R398 MORRISONS 40 Pork Cocktail Sausages	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Roast Pork Whole	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Roast Pork Whole	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Roast Pork Whole	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pulled Pork 	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pulled Pork 	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Pulled Pork 	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+PORK Maple BBQ Loin Steaks 600g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Maple BBQ Loin Steaks 600g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Maple BBQ Loin Steaks 600g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Maple BBQ Loin Steaks 600g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Maple BBQ Loin Steaks 600g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+red eye pork ribs	1	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R445 WESTLERS 4g Pork Meatballs	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Korean Pulled Pork and Noodles(Retest)	2084	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R418 BAKKAVOR 4g Pork & Fennel Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R418 CRANSWICK 4g Pork & Fennel Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Cured Pork Pie	1	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Shoulder Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Mediterranean Loin Steaks 600g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Mediterranean Loin Steaks 600g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Mediterranean Loin Steaks 600g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Mediterranean Loin Steaks 600g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Mediterranean Loin Steaks 600g	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+R400 MORRISONS 70 Pork Cocktail Sausages	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+R398 MORRISONS 40 Pork Cocktail Sausages	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R500 FRESHPAK 4g Pork & Beef Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+PORK LUNCH TONGUE	816	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+R500 FRESHPAK 4g Pork & Beef Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R500 FRESHPAK 4g Pork & Beef Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Pork and Apple Sausage	2629	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pork and Apple Sausage	2629	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pork and Apple Sausage	2629	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pork and Apple Sausage	2629	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Pork and Apple Sausage	2629	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+3829 - Pork Lunch Tongue	55	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Raw Pork Legs Bone In BQAP	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Raw Pork Rind	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+Raw Pork Rind	221	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	3	00:00.0	00:00.0
+"MORR FI Korean BBQ Pork, Rice & Pickled Slaw 400g"	2083	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+3829 - Pork Lunch Tongue	55	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Shoulder Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R400 MORRISONS 20 Pork Cocktail Sausages	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+slow cooked Memphis pork ribs	1	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+SAUSAGES Tesco Pork & Beef Meatballs 360g	340	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+SAUSAGES Tesco Pork & Beef Meatballs 360g	340	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+SAUSAGES Tesco Pork & Beef Meatballs 360g	340	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+SAUSAGES Tesco Pork & Beef Meatballs 360g	340	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+SAUSAGES Tesco Pork & Beef Meatballs 360g	340	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Pepper Crusted Pork Chops with Garlic Butter	128	UMRGX	Salmonella species D [UK Food]  /10 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	10 g	Very good	Very good	1	1	00:00.0	00:00.0
+R492 FORZA 4.5g Pork & Beef Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+R493 STATESIDE FOODS 3g Pork & Beef Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
+R492 FORZA 4.5g Pork & Beef Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Loin Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+PORK Shoulder Joint VP	128	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+Tennessee whiskey smoked pork	1	UMRJX	Salmonella species D [UK Food]  /25 g ISO 6579-1	UM000096	Salmonella	Not Detected	No unit	25 g	Very good	Very good	1	1	00:00.0	00:00.0
+R492 FORZA 4.5g Pork & Beef Meatball	1627	UMW6J	Salmonella D Abs Pres /25 g SOL 37/01-06/13	UM000096	Salmonella	Not Detected	No unit	25 g	Very good		1	1	00:00.0	00:00.0
