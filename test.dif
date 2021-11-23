@@ -1,0 +1,7158 @@
+TABLE
+0,1
+"pork salmonella tests all clients 2020-01-01 - 2020-02-01"
+VECTORS
+0,18
+""
+TUPLES
+0,188
+""
+DATA
+0,0
+""
+-1,0
+BOT
+1,0
+"ProductDescription"
+1,0
+"TestCode"
+1,0
+"TestName"
+1,0
+"ProductDescription"
+1,0
+"ClientID"
+1,0
+"TestCode"
+1,0
+"TestName"
+1,0
+"ParameterCode"
+1,0
+"ParameterName"
+1,0
+"StringValue"
+1,0
+"NumeratorUnit"
+1,0
+"DenominatorUnit"
+1,0
+"ResultSeverity"
+1,0
+"SampleSeverity"
+1,0
+"ResultSeverityColor"
+1,0
+"SampleSeverityColor"
+1,0
+"NumericValue"
+1,0
+"ReceivedDate"
+-1,0
+BOT
+1,0
+"Pulled Pork "
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Pulled Pork "
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-02"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-02 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pulled Pork "
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Pulled Pork "
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-02"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-02 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pulled Pork "
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Pulled Pork "
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-02"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-02 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Bone In BQAP"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Bone In BQAP"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-02"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-02 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Bone In BQAP"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Bone In BQAP"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-02"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-02 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Bone In BQAP"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Bone In BQAP"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-02"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-02 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Bone In BQAP"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Bone In BQAP"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-02"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-02 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Bone In BQAP"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Bone In BQAP"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-02"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-02 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Chops"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Chops"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-03 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Chops"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Chops"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Rejected"
+0,1
+V
+0,3
+V
+0,0
+V
+0,2020-01-03 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Chops"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Chops"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-03 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Chops"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Chops"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-03 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Lunch Tongue 120g"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Pork Lunch Tongue 120g"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-03"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-03 00:00:00
+V
+-1,0
+BOT
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-04"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-04 00:00:00
+V
+-1,0
+BOT
+1,0
+"R400 MORRISONS 70 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R400 MORRISONS 70 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-04 00:00:00
+V
+-1,0
+BOT
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-04"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-04 00:00:00
+V
+-1,0
+BOT
+1,0
+"R418 BAKKAVOR 4g Pork & Fennel Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R418 BAKKAVOR 4g Pork & Fennel Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-05"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-05 00:00:00
+V
+-1,0
+BOT
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-05"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-05 00:00:00
+V
+-1,0
+BOT
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-05"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-05 00:00:00
+V
+-1,0
+BOT
+1,0
+"JDF 125g Roast Pork"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"JDF 125g Roast Pork"
+0,337
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-06"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"250g Eastman`s Pork Luncheon Meat"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"250g Eastmans Pork Luncheon Meat"
+0,337
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-06"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-06"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Shoulder Joint VP"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Shoulder Joint VP"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Shoulder Joint VP"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Shoulder Joint VP"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Loin Joint VP"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Loin Joint VP"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Loin Joint VP"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Loin Joint VP"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Loin Steaks"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"Pork Loin Steaks"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Loin Steaks"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Loin Steaks"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Tesco Woodside Loin Steaks"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Tesco Woodside Loin Steaks"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Stir Fry Strips"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Stir Fry Strips"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Rolled Belly Joint "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Rolled Belly Joint "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK One Stop Belly slices"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK One Stop Belly slices"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Woodside Farm Pork Belly Slices "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Woodside Farm Pork Belly Slices "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-06 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Rolled Belly Joint "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Rolled Belly Joint "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Loin Steaks"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Loin Steaks"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Stir Fry Strips"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Stir Fry Strips"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK One Stop Belly slices"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK One Stop Belly slices"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Loin Steaks"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"Pork Loin Steaks"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Tesco Woodside Loin Steaks"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Tesco Woodside Loin Steaks"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Woodside Farm Pork Belly Slices "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Woodside Farm Pork Belly Slices "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest ODB Seasoned Belly Joint 700g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest ODB Seasoned Belly Joint 700g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"RTC Pork Loin Joint with Black Pepper Sprinkle 637g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"RTC Pork Loin Joint with Black Pepper Sprinkle 637g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Shoulder Steaks"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Shoulder Steaks"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest Thick Cut Chops"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest Thick Cut Chops"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Ribs"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Ribs"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest Leg Crackling Joint "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest Leg Crackling Joint "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest ODB 2 Pork Cutlets 550g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest ODB 2 Pork Cutlets 550g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK CHOPS"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK CHOPS"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Chops"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Chops"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Woodside Farm Pork Chops "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Woodside Farm Pork Chops "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Loin Medallions 500g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Loin Medallions 500g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Diced Pork"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Diced Pork"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest  ODB Thick Cut Steaks 400g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest  ODB Thick Cut Steaks 400g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK One Stop Loin Steaks 270G"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK One Stop Loin Steaks 270G"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest ODB Fillet Medallions"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest ODB Fillet Medallions"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest Fillet 500g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest Fillet 500g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Whole Fillet"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Whole Fillet"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Shoulder Steaks"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Shoulder Steaks"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest Thick Cut Chops"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest Thick Cut Chops"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Ribs"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Ribs"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Rejected"
+0,1
+V
+0,3
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest Leg Crackling Joint "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest Leg Crackling Joint "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest ODB 2 Pork Cutlets 550g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest ODB 2 Pork Cutlets 550g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK CHOPS"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK CHOPS"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Chops"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Chops"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Woodside Farm Pork Chops "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Woodside Farm Pork Chops "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Loin Medallions 500g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Loin Medallions 500g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Diced Pork"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Diced Pork"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest  ODB Thick Cut Steaks 400g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest  ODB Thick Cut Steaks 400g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK One Stop Loin Steaks 270G"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK One Stop Loin Steaks 270G"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest ODB Fillet Medallions"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest ODB Fillet Medallions"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest Fillet 500g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest Fillet 500g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Whole Fillet"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Whole Fillet"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Paprika Loin Steaks with Chorizo Butter 320g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Paprika Loin Steaks with Chorizo Butter 320g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Mediterranean Loin Steaks 600g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Mediterranean Loin Steaks 600g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Maple BBQ Loin Steaks 600g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Maple BBQ Loin Steaks 600g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Leg Crackling Joint with SS"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Leg Crackling Joint with SS"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Chinese Pork Stir Fry Strips 500g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Chinese Pork Stir Fry Strips 500g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Pepper Crusted Pork Chops with Garlic Butter"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Pepper Crusted Pork Chops with Garlic Butter"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Injected Katsu Pork Loin Steaks"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Injected Katsu Pork Loin Steaks"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Hog Roast with Apple Sauce 900g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Hog Roast with Apple Sauce 900g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"RTC Injected Cajun Pork Loin Steaks With Roasted Peppers"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"RTC Injected Cajun Pork Loin Steaks With Roasted Peppers"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK LUNCH TONGUE"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK LUNCH TONGUE"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-07"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK LUNCH TONGUE"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK LUNCH TONGUE"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-07"
+0,1
+V
+0,2
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK LUNCH TONGUE"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK LUNCH TONGUE"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-07"
+0,1
+V
+0,3
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK LUNCH TONGUE"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK LUNCH TONGUE"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-07"
+0,1
+V
+0,3
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK LUNCH TONGUE"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK LUNCH TONGUE"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-07"
+0,1
+V
+0,3
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK LUNCH TONGUE"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK LUNCH TONGUE"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-07"
+0,1
+V
+0,3
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK LUNCH TONGUE"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK LUNCH TONGUE"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-07"
+0,1
+V
+0,3
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK LUNCH TONGUE"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK LUNCH TONGUE"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-07"
+0,1
+V
+0,3
+V
+0,0
+V
+0,2020-01-07 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Slicing Log"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Pork Slicing Log"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-08"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-08 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Slicing Log"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Pork Slicing Log"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-08"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-08 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Slicing Log"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Pork Slicing Log"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-08"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-08 00:00:00
+V
+-1,0
+BOT
+1,0
+"MORR FI Korean BBQ Pork, Rice & Pickled Slaw 400g"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"JACKS Pork Chops 700g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-08 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Pork Chops 700g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"JACKS Pork Loin Steaks 720g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-08 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Pork Loin Steaks 720g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"JACKS Pork Belly Slices"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-08 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Pork Belly Slices"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"JACKS Pork Chops 700g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-08 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Pork Chops 700g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"JACKS Pork Loin Steaks 720g"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-08 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Pork Loin Steaks 720g"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"JACKS Pork Belly Slices"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-08 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Pork Belly Slices"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"Sliced Roast Pork"
+0,2629
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-08"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-08 00:00:00
+V
+-1,0
+BOT
+1,0
+"Sliced Roast Pork"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Pork Luncheon meat 250g"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-09 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Luncheon meat 250g"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Pork Breakfast Sausage125g"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-09 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Breakfast Sausage125g"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-09"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-09 00:00:00
+V
+-1,0
+BOT
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R400 MORRISONS 20 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-09"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-09 00:00:00
+V
+-1,0
+BOT
+1,0
+"R400 MORRISONS 20 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"BEST PORK"
+0,1991
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-09"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-09 00:00:00
+V
+-1,0
+BOT
+1,0
+"BEST PORK"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Boneless"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-09"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-09 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Boneless"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK Finest Leg Crackling Joint "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-10 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest Leg Crackling Joint "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest Leg Crackling Joint "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-10 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest Leg Crackling Joint "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest Leg Crackling Joint "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-10 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest Leg Crackling Joint "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Finest Leg Crackling Joint "
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-10 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Finest Leg Crackling Joint "
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"Pork lunch tongue 150g"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-10 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork lunch tongue 150g"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"TTD PORK LOIN WITH SALT & PEPPER"
+0,42
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-10"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-10 00:00:00
+V
+-1,0
+BOT
+1,0
+"TTD PORK LOIN WITH SALT & PEPPER"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"125g Eastmans Pork & Egg Roll"
+0,337
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-10"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-10 00:00:00
+V
+-1,0
+BOT
+1,0
+"125g Eastman`s Pork & Egg Roll"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"R295 PRINCES FOODS 8.2g Pork Cocktail"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-10 00:00:00
+V
+-1,0
+BOT
+1,0
+"R295 PRINCES FOODS 8.2g Pork Cocktail"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-10 00:00:00
+V
+-1,0
+BOT
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-10"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-10 00:00:00
+V
+-1,0
+BOT
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R489 MALTON 20g Beef&Pork Burger Bite"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-10"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-11 00:00:00
+V
+-1,0
+BOT
+1,0
+"R489 WESTLERS 20g Beef&Pork Burger Bite"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R489 MALTON 20g Beef&Pork Burger Bite"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella species D [UK Food]  /25 g AFNOR SOL 37"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"To follow"
+1,0
+"No unit"
+1,0
+"25 g"
+0,0
+V
+1,0
+"2020-01-11"
+0,0
+V
+0,0
+V
+1,0
+"NULL"
+0,2020-01-11 00:00:00
+V
+-1,0
+BOT
+1,0
+"R489 WESTLERS 20g Beef&Pork Burger Bite"
+1,0
+"UMW6J"
+1,0
+"Salmonella species D [UK Food]  /25 g AFNOR SOL 37"
+1,0
+"R489 MALTON 20g Beef&Pork Burger Bite"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-11"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-11 00:00:00
+V
+-1,0
+BOT
+1,0
+"R489 WESTLERS 20g Beef&Pork Burger Bite"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"SAUSAGE Woodside pork sausages"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-13 00:00:00
+V
+-1,0
+BOT
+1,0
+"SAUSAGE Woodside pork sausages"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"SAUSAGE Woodside pork sausages"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-13 00:00:00
+V
+-1,0
+BOT
+1,0
+"SAUSAGE Woodside pork sausages"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"SAUSAGE Woodside pork sausages"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-13 00:00:00
+V
+-1,0
+BOT
+1,0
+"SAUSAGE Woodside pork sausages"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"SAUSAGE Woodside pork sausages"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-13 00:00:00
+V
+-1,0
+BOT
+1,0
+"SAUSAGE Woodside pork sausages"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"SAUSAGE Woodside pork sausages"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-13 00:00:00
+V
+-1,0
+BOT
+1,0
+"SAUSAGE Woodside pork sausages"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"Pork Lunch Tongue"
+0,816
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-13"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-13 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Lunch Tongue"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK Loin Joint VP"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-13 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK SAUSAGES"
+1,0
+"UM8C9"
+1,0
+"Salmonella D Abs Pres /10 g SOL 37/01-06/13"
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-14 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Loin Joint VP"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"R400 MORRISONS 30 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-14 00:00:00
+V
+-1,0
+BOT
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK Shoulder Joint VP"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-14 00:00:00
+V
+-1,0
+BOT
+1,0
+"R400 MORRISONS 30 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Roast Pork Trim Sliced"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-15 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Shoulder Joint VP"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"Sweet And Sour Pork"
+0,303
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-16 00:00:00
+V
+-1,0
+BOT
+1,0
+"Roast Pork Trim Sliced"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R400 MORRISONS 30 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-15"
+0,1
+V
+0,3
+V
+0,0
+V
+0,2020-01-16 00:00:00
+V
+-1,0
+BOT
+1,0
+"Sweet And Sour Pork"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R295 LADORIA 8.2g Pork Ctail"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-16"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-16 00:00:00
+V
+-1,0
+BOT
+1,0
+"R400 MORRISONS 30 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"WR Pulled Pork Char Siu Buns- NEW"
+0,161
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-16"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-16 00:00:00
+V
+-1,0
+BOT
+1,0
+"R295 LADORIA 8.2g Pork Ctail"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"JACKS Premium 6 British Pork and Oak Smoked Cheese and Chive Sausages 400g"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-20 00:00:00
+V
+-1,0
+BOT
+1,0
+"WR Pulled Pork Char Siu Buns- NEW"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"JACKS Premium 6 British Pork and Oak Smoked Cheese and Chive Sausages 400g"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-20 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Premium 6 British Pork and Oak Smoked Cheese and Chive Sausages 400g"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"JACKS Premium 6 British Pork and Oak Smoked Cheese and Chive Sausages 400g"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-20 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Premium 6 British Pork and Oak Smoked Cheese and Chive Sausages 400g"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"JACKS Premium 6 British Pork and Oak Smoked Cheese and Chive Sausages 400g"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-20 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Premium 6 British Pork and Oak Smoked Cheese and Chive Sausages 400g"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"JACKS Premium 6 British Pork and Oak Smoked Cheese and Chive Sausages 400g"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-20 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Premium 6 British Pork and Oak Smoked Cheese and Chive Sausages 400g"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-20"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-20 00:00:00
+V
+-1,0
+BOT
+1,0
+"JACKS Premium 6 British Pork and Oak Smoked Cheese and Chive Sausages 400g"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-20 00:00:00
+V
+-1,0
+BOT
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"3829 - British Pork Lunch Tongue"
+0,55
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-20 00:00:00
+V
+-1,0
+BOT
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"4707 - Pork Lunch Tongue"
+0,55
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-20 00:00:00
+V
+-1,0
+BOT
+1,0
+"3829 - British Pork Lunch Tongue"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"4734 - Iceland Pork & Egg Roll"
+0,55
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-20 00:00:00
+V
+-1,0
+BOT
+1,0
+"4707 - Pork Lunch Tongue"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Shoulder Joint VP"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-21 00:00:00
+V
+-1,0
+BOT
+1,0
+"4734 - Iceland Pork & Egg Roll"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"PORK Loin Joint VP"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-21 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Shoulder Joint VP"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"R418 BAKKAVOR 4g Pork & Fennel Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-21 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Loin Joint VP"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-21 00:00:00
+V
+-1,0
+BOT
+1,0
+"R418 BAKKAVOR 4g Pork & Fennel Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-21"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-22 00:00:00
+V
+-1,0
+BOT
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Pork Goulash"
+0,303
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-23 00:00:00
+V
+-1,0
+BOT
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Bone In BQAP"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-22"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-23 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Goulash"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Bone In BQAP"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-23"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-23 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Bone In BQAP"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Bone In BQAP"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-23"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-23 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Bone In BQAP"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Bone In BQAP"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-23"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-23 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Bone In BQAP"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Legs Bone In BQAP"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-23"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-23 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Bone In BQAP"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R400 MORRISONS 30 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-23"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-24 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Legs Bone In BQAP"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"3829 - Pork Lunch Tongue"
+0,55
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-24 00:00:00
+V
+-1,0
+BOT
+1,0
+"R400 MORRISONS 30 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Melton Mowbray Pork Pie"
+0,2482
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-24 00:00:00
+V
+-1,0
+BOT
+1,0
+"3829 - Pork Lunch Tongue"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"2 Pork & Iberico Chorizo  sausage rolls"
+0,2482
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-24 00:00:00
+V
+-1,0
+BOT
+1,0
+"Melton Mowbray Pork Pie"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"WR Pulled Pork Char Siu Buns- NEW"
+0,161
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-24"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-25 00:00:00
+V
+-1,0
+BOT
+1,0
+"2 Pork & Iberico Chorizo  sausage rolls"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-24"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-25 00:00:00
+V
+-1,0
+BOT
+1,0
+"WR Pulled Pork Char Siu Buns- NEW"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-25"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-25 00:00:00
+V
+-1,0
+BOT
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-25"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-25 00:00:00
+V
+-1,0
+BOT
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-25"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-26 00:00:00
+V
+-1,0
+BOT
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R418 CRANSWICK 4g Pork & Fennel Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-26 00:00:00
+V
+-1,0
+BOT
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball (HOLD 30)"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-26"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-26 00:00:00
+V
+-1,0
+BOT
+1,0
+"R418 CRANSWICK 4g Pork & Fennel Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"SAUSAGE  Pork sausages"
+0,340
+V
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"10 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-27 00:00:00
+V
+-1,0
+BOT
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"PORK Shoulder Joint VP"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-27 00:00:00
+V
+-1,0
+BOT
+1,0
+"SAUSAGE  Pork sausages"
+1,0
+"UMRGX"
+1,0
+"Salmonella species D [UK] Abs Pres /10 g ISO 6579"
+1,0
+"PORK Loin Joint VP"
+0,128
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-27 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Shoulder Joint VP"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-27"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-28 00:00:00
+V
+-1,0
+BOT
+1,0
+"PORK Loin Joint VP"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-28 00:00:00
+V
+-1,0
+BOT
+1,0
+"R398 MORRISONS 40 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-28"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-28 00:00:00
+V
+-1,0
+BOT
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"3829 - Pork Lunch Tongue"
+0,55
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-28 00:00:00
+V
+-1,0
+BOT
+1,0
+"R493 STATESIDE FOODS 3g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Wiltshire Cured Ham  Pork Pie"
+0,2482
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-28 00:00:00
+V
+-1,0
+BOT
+1,0
+"3829 - Pork Lunch Tongue"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"Wasabi Pork Bulgogi"
+0,1456
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-28 00:00:00
+V
+-1,0
+BOT
+1,0
+"Wiltshire Cured Ham  Pork Pie"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"Wasabi Pork Bulgogi"
+0,1456
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-28 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Bulgogi"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Wasabi Pork Bulgogi"
+0,1456
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-28 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Bulgogi"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Wasabi Pork Bulgogi"
+0,1456
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-28 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Bulgogi"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R400 MORRISONS 30 Pork Cocktail Sausages"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-29 00:00:00
+V
+-1,0
+BOT
+1,0
+"Pork Bulgogi"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"125g Eastmans Pork & Egg Roll"
+0,337
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-28"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-29 00:00:00
+V
+-1,0
+BOT
+1,0
+"R400 MORRISONS 30 Pork Cocktail Sausages"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Raw Pork Rind"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-29"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-30 00:00:00
+V
+-1,0
+BOT
+1,0
+"125g Eastman`s Pork & Egg Roll"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"Raw Pork Rind"
+0,221
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-29"
+0,1
+V
+0,3
+V
+0,0
+V
+0,2020-01-30 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Rind"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+0,1627
+V
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-30"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-31 00:00:00
+V
+-1,0
+BOT
+1,0
+"Raw Pork Rind"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"4 barbecue pork pies"
+0,2482
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"Very good"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-01-31 00:00:00
+V
+-1,0
+BOT
+1,0
+"R492 FORZA 4.5g Pork & Beef Meatball"
+1,0
+"UMW6J"
+1,0
+"Salmonella D Abs Pres /25 g SOL 37/01-06/13"
+1,0
+"Cured Pork Pie"
+0,2482
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK Food]  /25 g ISO 6579-1"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"None"
+1,0
+"2020-01-31"
+0,0
+V
+0,0
+V
+0,0
+V
+0,2020-01-31 00:00:00
+V
+-1,0
+BOT
+1,0
+"4 barbecue pork pies"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"125g Core Roast Pork"
+0,337
+V
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+"2020-01-31"
+0,1
+V
+0,1
+V
+0,0
+V
+0,2020-02-01 00:00:00
+V
+-1,0
+BOT
+1,0
+"Cured Pork Pie"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK Food]  /25 g ISO 6579-1"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"None"
+1,0
+""
+0,0
+V
+0,0
+V
+0,0
+V
+1,0
+"2020-01-31"
+1,0
+""
+1,0
+""
+1,0
+""
+1,0
+""
+-1,0
+BOT
+1,0
+"125g Core Roast Pork"
+1,0
+"UMRJX"
+1,0
+"Salmonella species D [UK] Abs Pres /25 g ISO 6579"
+1,0
+"UM000096"
+1,0
+"Salmonella"
+1,0
+"Not Detected"
+1,0
+"No unit"
+1,0
+"25 g"
+1,0
+"Very good"
+1,0
+""
+0,1
+V
+0,1
+V
+0,0
+V
+1,0
+"2020-02-01"
+1,0
+""
+1,0
+""
+1,0
+""
+1,0
+""
+-1,0
+EOD
